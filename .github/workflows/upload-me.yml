@@ -22,4 +22,4 @@ jobs:
       with:
     #    sarif_file: reports/sarif1.json
     #    sarif_file: reports/report2.sarif
-        sarif_file: test_struts.sarif
+        sarif_file: reports/test_struts.sarif
